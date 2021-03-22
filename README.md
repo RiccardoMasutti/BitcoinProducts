@@ -1,5 +1,5 @@
 # Bitcoin Products
-A list of Bitcoin-related products and services I recommend.
+A list of Bitcoin-related products and services I recommend. Some links contains a small referral link to support my [open source Bitcoin contributions](https://github.com/sponsors/RiccardoMasutti).
 
 # Security
 ## Notebook
