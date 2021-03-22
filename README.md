@@ -30,7 +30,7 @@ A list of Bitcoin-related products and services I recommend. Some links contains
 
 ## Atomic Swaps
 ### Bitcoin <-> Liquid (BTC <-> LBTC) 
-- [Liquiditi](liquiditi.io/r/7EED16F)
+- [Liquiditi](https://liquiditi.io/r/7EED16F)
 
 ### Lightning Network
 - [Boltz](https://boltz.exchange/)
